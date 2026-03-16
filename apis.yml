@@ -1,11 +1,27 @@
+aid: oci
 name: OCI
-description: OCI is a technology or concept used in computing and information technology
-  to address specific technical challenges. It provides capabilities that help practitioners
-  build, manage, or improve systems and processes in their domain.
-url: null
+description: >-
+  OCI (Open Container Initiative) is an open governance structure for creating
+  open industry standards around container formats and runtimes. OCI defines
+  standards for container images, distribution, and runtime specifications
+  used by Docker, Kubernetes, and other container technologies.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- OCI
-created: '2025'
-modified: '2025'
+  - OCI
+  - Containers
+  - Open Source
+  - Standards
+url: https://raw.githubusercontent.com/api-evangelist/oci/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://opencontainers.org/
+  - type: GitHub Organization
+    url: https://github.com/opencontainers
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
