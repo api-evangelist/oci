@@ -8,8 +8,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - OCI
   - Containers
+  - OCI
   - Open Source
   - Standards
 url: https://raw.githubusercontent.com/api-evangelist/oci/refs/heads/main/apis.yml
