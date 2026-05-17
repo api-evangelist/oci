@@ -20,7 +20,7 @@ apis: []
 common:
   - type: Website
     url: https://opencontainers.org/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/opencontainers
 maintainers:
   - FN: Kin Lane
