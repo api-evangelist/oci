@@ -21,6 +21,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/oci.png
 tags:
   - Containers
   - OCI
+  - Open-Source
+  - Standards
+tags_raw:
+  - Containers
+  - OCI
   - Open Source
   - Standards
 url: https://raw.githubusercontent.com/api-evangelist/oci/refs/heads/main/apis.yml
